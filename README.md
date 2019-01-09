@@ -1,4 +1,4 @@
-# MVKBC model for lung nodule classification
+# MVKBC model for benign-malignant lung nodule classification
 Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT
 
 # Introduction
